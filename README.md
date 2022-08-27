@@ -1,2 +1,2 @@
-# a-taste-of-heaven
+# Simon's recipes
 Recipe Website
