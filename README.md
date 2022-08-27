@@ -1,2 +1,2 @@
-# Simon's recipes
+# SimonRecipes
 Recipe Website
